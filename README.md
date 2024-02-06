@@ -29,4 +29,11 @@ streamlit run app.py
 ```
 
 ## Here is the UI.
-![](![UI](https://github.com/Swam80/LLM_GoogleGeminiPro_ChatPdf/assets/42047546/5cc1ef3a-b4aa-43f0-920f-4ba8e1d4f32e)
+![UI](https://github.com/Swam80/LLM_GoogleGeminiPro_ChatPdf/assets/42047546/5cc1ef3a-b4aa-43f0-920f-4ba8e1d4f32e)
+
+## Shortcomings and Potential Improvments.
+* Restricted to the contents of the pdf as it may not work well with general questions. Maybe with a more powerful LLM model and domain specific prompt it can do well.
+* It would be interesting to check if we can integrate a functionality to analyze images within the pdfs.
+
+## Credits
+This project has been guided by Krish Naik [Here is the youtube link](https://www.youtube.com/@krishnaik06). He is a data scientist and an educator who has inspired many people to pursue this field.
